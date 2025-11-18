@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   
   
-  <title>Mossie&#39;s Blog</title>
+  <title>安装docker引擎或桌面版 | Mossie&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="安装docker引擎或桌面版相关链接Docker Engine安装官方文档Docker Desktop安装官方文档按照官方文档操作可能会出问题，这两个链接仅供查阅。 &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D; 一、安装 Docker Engine （针对 Ubuntu 24.04 noble） 先确保依赖齐全：  12s">
+  <meta name="description" content="相关链接Docker Engine安装官方文档Docker Desktop安装官方文档按照官方文档操作可能会出问题，这两个链接仅供查阅。 &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D; 一、安装 Docker Engine （针对 Ubuntu 24.04 noble） 先确保依赖齐全：  12sudo apt update">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Mossie&#39;s Blog">
-<meta property="og:url" content="https://mossie33.github.io/uncategorized/1ea46f75b1d4">
+<meta property="og:title" content="安装docker引擎或桌面版">
+<meta property="og:url" content="https://mossie33.github.io/uncategorized/%E5%AE%89%E8%A3%85docker%E5%BC%95%E6%93%8E%E6%88%96%E6%A1%8C%E9%9D%A2%E7%89%88/1ea46f75b1d4">
 <meta property="og:site_name" content="Mossie&#39;s Blog">
-<meta property="og:description" content="安装docker引擎或桌面版相关链接Docker Engine安装官方文档Docker Desktop安装官方文档按照官方文档操作可能会出问题，这两个链接仅供查阅。 &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D; 一、安装 Docker Engine （针对 Ubuntu 24.04 noble） 先确保依赖齐全：  12s">
+<meta property="og:description" content="相关链接Docker Engine安装官方文档Docker Desktop安装官方文档按照官方文档操作可能会出问题，这两个链接仅供查阅。 &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D; 一、安装 Docker Engine （针对 Ubuntu 24.04 noble） 先确保依赖齐全：  12sudo apt update">
 <meta property="og:locale">
 <meta property="article:published_time" content="2025-11-18T09:35:31.161Z">
-<meta property="article:modified_time" content="2025-11-18T09:39:28.096Z">
+<meta property="article:modified_time" content="2025-11-18T09:41:53.293Z">
 <meta property="article:author" content="Mossie">
 <meta name="twitter:card" content="summary">
   
@@ -61,12 +61,12 @@
       <nav id="sub-nav">
         
         
-          <a class="nav-icon" href="/atom.xml" title="RSS Feed"><span class="fa fa-rss"></span></a>
+          <a class="nav-icon" href="/atom.xml" title="RSS"><span class="fa fa-rss"></span></a>
         
-        <a class="nav-icon nav-search-btn" title="Search"><span class="fa fa-search"></span></a>
+        <a class="nav-icon nav-search-btn" title="Buscar"><span class="fa fa-search"></span></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://mossie33.github.io"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://mossie33.github.io"></form>
       </div>
     </div>
   </div>
@@ -75,7 +75,7 @@
       <div class="outer">
         <section id="main"><article id="post-安装docker引擎或桌面版" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/uncategorized/1ea46f75b1d4" class="article-date">
+    <a href="/uncategorized/%E5%AE%89%E8%A3%85docker%E5%BC%95%E6%93%8E%E6%88%96%E6%A1%8C%E9%9D%A2%E7%89%88/1ea46f75b1d4" class="article-date">
   <time class="dt-published" datetime="2025-11-18T09:35:31.161Z" itemprop="datePublished">2025-11-18</time>
 </a>
     
@@ -83,9 +83,19 @@
   <div class="article-inner">
     
     
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      安装docker引擎或桌面版
+    </h1>
+  
+
+      </header>
+    
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <h1 id="安装docker引擎或桌面版"><a href="#安装docker引擎或桌面版" class="headerlink" title="安装docker引擎或桌面版"></a>安装docker引擎或桌面版</h1><h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p><a target="_blank" rel="noopener" href="https://docs.docker.com/engine/install/ubuntu/">Docker Engine安装官方文档</a><br><a target="_blank" rel="noopener" href="https://docs.docker.com/desktop/setup/install/linux/ubuntu/">Docker Desktop安装官方文档</a><br>按照官方文档操作可能会出问题，这两个链接仅供查阅。<br> &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D;</p>
+        <h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p><a target="_blank" rel="noopener" href="https://docs.docker.com/engine/install/ubuntu/">Docker Engine安装官方文档</a><br><a target="_blank" rel="noopener" href="https://docs.docker.com/desktop/setup/install/linux/ubuntu/">Docker Desktop安装官方文档</a><br>按照官方文档操作可能会出问题，这两个链接仅供查阅。<br> &#x3D;&#x3D;Docker Engine 和 Docker Desktop 只能二选一&#x3D;&#x3D;</p>
 <h3 id="一、安装-Docker-Engine-（针对-Ubuntu-24-04-noble）"><a href="#一、安装-Docker-Engine-（针对-Ubuntu-24-04-noble）" class="headerlink" title="一、安装 Docker Engine （针对 Ubuntu 24.04 noble）"></a>一、安装 Docker Engine （针对 Ubuntu 24.04 noble）</h3><ol>
 <li>先确保依赖齐全：</li>
 </ol>
@@ -216,7 +226,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://mossie33.github.io/uncategorized/1ea46f75b1d4" data-id="cuidyaYRiCXy_bVrWisU3uhdt" data-title="" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      <a data-url="https://mossie33.github.io/uncategorized/%E5%AE%89%E8%A3%85docker%E5%BC%95%E6%93%8E%E6%88%96%E6%A1%8C%E9%9D%A2%E7%89%88/1ea46f75b1d4" data-id="cuidrxFXr2pIrMBHIlh74ajQK" data-title="安装docker引擎或桌面版" class="article-share-link"><span class="fa fa-share">Compartir</span></a>
       
       
       
@@ -228,7 +238,7 @@
   
   
     <a href="/uncategorized/hello-world/9aabc67c50d4" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Older</strong>
+      <strong class="article-nav-caption">Viejo</strong>
       <div class="article-nav-title">Hello World</div>
     </a>
   
@@ -252,7 +262,7 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Archives</h3>
+    <h3 class="widget-title">Archivos</h3>
     <div class="widget">
       <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/11/">November 2025</a></li></ul>
     </div>
@@ -262,12 +272,12 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Recent Posts</h3>
+    <h3 class="widget-title">Posts recientes</h3>
     <div class="widget">
       <ul>
         
           <li>
-            <a href="/uncategorized/1ea46f75b1d4">(no title)</a>
+            <a href="/uncategorized/%E5%AE%89%E8%A3%85docker%E5%BC%95%E6%93%8E%E6%88%96%E6%A1%8C%E9%9D%A2%E7%89%88/1ea46f75b1d4">安装docker引擎或桌面版</a>
           </li>
         
           <li>
@@ -288,7 +298,7 @@
     <div id="footer-info" class="inner">
       
       &copy; 2025 Mossie<br>
-      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+      Construido por <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
 </footer>
